@@ -1,0 +1,47 @@
+.Advategus {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.advategus-container {
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background: #f4f4fd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 8px;
+}
+
+.advategus-icon {
+    fill: #2e2f42;
+
+    width: 64px;
+    height: 64px;
+}
+
+.dvategus-list {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.advategus-item {
+    width: calc((100% - 3 * 24) / 4);
+}
+
+.advategus-title-text {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.advategus-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
